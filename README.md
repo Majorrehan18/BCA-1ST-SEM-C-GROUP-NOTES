@@ -1,4 +1,4 @@
-# 📚💻 BCA Study Notes (🔔 Updated every Sunday)
+# 📚💻 BCA Study Notes (🔔 Updated every Sunday & Wednesday!!!)
 
 > 🎓 **A structured collection of my BCA notes and study materials.**
 
